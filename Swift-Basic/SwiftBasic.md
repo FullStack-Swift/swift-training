@@ -1,5 +1,3 @@
-Swift Training
-
 **Declaring Constants and Variables**
 ```swift
 let double: Double = 3.14
