@@ -26,7 +26,7 @@ Hi
 Swift!
 """
 ```
-** Control Flow **
+**Control Flow**
 ```swift
 let value = 101
 if value%2 == 0 {
