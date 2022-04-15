@@ -25,4 +25,10 @@ let hiThere = """
 Hi
 Swift!
 """
-
+** Control Flow **
+let value = 101
+if value%2 == 0 {
+  print("")
+} else {
+  print("")
+}
