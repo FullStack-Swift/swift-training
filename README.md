@@ -1,6 +1,7 @@
 Swift Training
 
 **Declaring Constants and Variables**
+ - Use let to make a constant and var to make a variable
 ```swift
 let double: Double = 3.14
 // double = 3 // Error: You can't reassign a let
